@@ -1,24 +1,21 @@
 # docker-vue-app
 
-## Project setup
-```
-npm install
+# Description
+This repository is a web app sample which can be used as a base for a VueJS project.
+ 
+
+# Initialization
+
+### Build and run docker file with initialize script: 
+```bash
+./init
 ```
 
-### Compiles and hot-reloads for development
-```
+### Compiles and hot-reloads for development:
+```bash
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+# Referances
+See *[VueJS](https://vuejs.org/guide/quick-start.html)*, *[Docker](https://docs.docker.com/)* and *[Nginx](https://nginx.org/en/docs/)* documentation for details.
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

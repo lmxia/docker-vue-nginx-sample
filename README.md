@@ -1,8 +1,7 @@
-# docker-vue-app
+# docker-vue-nginx-sample
 
 # Description
-This repository is a web app sample which can be used as a base for a VueJS project.
- 
+This repository is a sample project which can be used as a base for a VueJS, Docker and Nginx web app. 
 
 # Initialization
 
@@ -17,5 +16,8 @@ npm run serve
 ```
 
 # Referances
-See *[VueJS](https://vuejs.org/guide/quick-start.html)*, *[Docker](https://docs.docker.com/)* and *[Nginx](https://nginx.org/en/docs/)* documentation for details.
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
+See *[VueJS](https://vuejs.org/guide/quick-start.html)*, *[Docker](https://docs.docker.com/)* and *[Nginx](https://nginx.org/en/docs/)* documentation for more details.
 

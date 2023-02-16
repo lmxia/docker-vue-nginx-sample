@@ -11,7 +11,7 @@ const MiniCssExtractPlugin = require('mini-css-extract-plugin')
 const version = moment().format('YYYY-MM-DD-HH-mm-ss')
 const config = {
   lintOnSave: false,
-  indexPath: 'app.html',
+  indexPath: 'index.html',
   publicPath: '/',
   productionSourceMap: false,
   configureWebpack: {
